@@ -1,0 +1,27 @@
+.i {
+    display: flex;
+    height: 100vh;
+    background-color: rgb(223, 228, 223);
+}
+
+.i-left {
+    flex: 1;
+}
+
+.i-right {
+    flex: 1;
+}
+
+.i-left-wrapper {
+    padding: 50px;   
+}
+
+.i-intro {
+   font-size: 30px;
+   font-weight: 300; 
+}
+
+.i-name {
+    font-size: 60px;
+}
+
